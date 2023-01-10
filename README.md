@@ -8,3 +8,5 @@
 **Технологии сайта**
 
 Сайт использует HTML, CSS, БЭМ, подключенные шрифты
+
+Ссылка на проект: https://keeonezy.github.io/russian-travel/index.html
