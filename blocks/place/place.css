@@ -1,7 +1,26 @@
 .place {
+    margin-top: 80px;
     max-width: 984px;
     display: grid;
     grid-template-columns: repeat(2, minmax(340px, 460px));
     gap: 48px 40px;
-    margin-top: 80px;
+}
+
+@media screen and (max-width: 1024px) {
+    .place {
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place {
+        max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place {
+        margin-top: 50px;
+        max-width: 320px;
+    }
 }
