@@ -1,6 +1,11 @@
 .cover__overlay {
-    max-width: 1184px;
-    min-height: 740px;
-    background: #2A2C2F;
-    opacity: 0.3;
+    background-color: rgba(44, 42, 47, 0.3);
+    width: 100%;
+    color: white;
+    text-decoration: none;
+    transition: 1s;
+}
+
+.cover__overlay:hover {
+    background-color: rgba(44, 42, 47, 0.8);
 }
