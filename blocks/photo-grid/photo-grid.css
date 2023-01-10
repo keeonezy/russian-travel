@@ -2,6 +2,7 @@
     margin: 92px auto;
     max-width: 1184px;
     display: grid;
+    justify-content: center;
     grid-template-columns: repeat(4, fit-content(284px));
     gap: 16px;
 }
