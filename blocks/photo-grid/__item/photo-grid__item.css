@@ -1,21 +1,21 @@
 .photo-grid__item {
-    max-width: 284px;
+    width: 284px;
 }
 
 @media screen and (max-width: 1200px) {
     .photo-grid__item {
-        max-width: 300px;
+        width: 300px;
     }
 }
 
 @media screen and (max-width: 940px) {
     .photo-grid__item {
-        max-width: 352px;
+        width: 352px;
     }
 }
 
 @media screen and (max-width: 740px) {
     .photo-grid__item {
-        max-width: 288px;
+        width: 288px;
     }
 }

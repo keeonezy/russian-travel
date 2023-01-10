@@ -9,12 +9,17 @@
 @media screen and (max-width: 1200px) {
     .place {
         max-width: 928px;
+        grid-template-columns: repeat(2, minmax(340px, 440px));
+        gap: 48px 32px;
     }
 }
 
 @media screen and (max-width: 940px) {
     .place {
+        margin-top: 73px;
         max-width: 720px;
+        grid-template-columns: repeat(2, minmax(340px, 340px));
+        gap: 48px 28px;
     }
 }
 
@@ -22,5 +27,6 @@
     .place {
         margin-top: 50px;
         max-width: 320px;
+        gap: 32px;
     }
 }

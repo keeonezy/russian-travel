@@ -9,6 +9,8 @@
 
 @media screen and (max-width: 740px) {
     .place__website {
+        margin-left: 16px;
+        width: 288px;
         grid-column-start: 1;
         grid-column-end: 1;
         grid-row-start: 2;
