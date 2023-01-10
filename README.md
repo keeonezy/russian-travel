@@ -1,5 +1,7 @@
 # Проект: Путешествие по России
 
+Ссылка на gh-pages: https://keeonezy.github.io/russian-travel/index.html
+
 ## Описание проекта
 * Погружаемся в прекрасные места России
 * Картинки с красивыми видами
@@ -8,5 +10,3 @@
 **Технологии сайта**
 
 Сайт использует HTML, CSS, БЭМ, подключенные шрифты
-
-Ссылка на проект: https://keeonezy.github.io/russian-travel/index.html
