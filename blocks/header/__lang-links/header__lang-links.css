@@ -1,5 +1,12 @@
 .header__lang-links {
+    margin-top: 14px;
     display: flex;
-    align-self: flex-end;
+    align-self: flex-start;
     gap: 18px;
+}
+
+@media screen and (max-width: 1200px) {
+    .header__lang-links {
+        margin-top: 18px;
+    }
 }
